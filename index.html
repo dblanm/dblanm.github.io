@@ -85,7 +85,44 @@ supervised by Prof. Ville Kyrki.</p>
 the <a href="https://mycourses.aalto.fi/course/view.php?id=28593">Reinforcement Learning course</a> at Aalto University.</p>
 
 <h2 id="selected-publications">Selected Publications</h2>
-<ol class="bibliography"><li><div class="text-justify"><span id="blancomulero2021evolvinggraph"><b>Blanco-Mulero, D.</b>, Heinonen, M., &amp; Kyrki, V. (2021). Evolving-Graph Gaussian Processes. <i>ArXiv Preprint ArXiv:2106.15127</i>.</span></div>
+<ol class="bibliography"><li><div class="text-justify"><span id="hietala2021closing">Hietala, J., <b>Blanco-Mulero, D.</b>, Alcan, G., &amp; Kyrki, V. (2021). Closing the Sim2Real Gap in Dynamic Cloth Manipulation. <i>ArXiv Preprint ArXiv:2109.04771</i>.</span></div>
+<button class="button0" onclick="toggleBibtexhietala2021closing()">Bibtex</button>
+ 
+
+ 
+
+ 
+
+    <a href="https://arxiv.org/abs/2109.04771"><input class="button4" type="button" value="link" /></a>
+
+ 
+
+<div id="ahietala2021closing" style="display: none;">
+<pre>@inproceedings{hietala2021closing,
+  title = {Closing the Sim2Real Gap in Dynamic Cloth Manipulation},
+  author = {Hietala, Julius and Blanco-Mulero, David and Alcan, Gokhan and Kyrki, Ville},
+  year = {2021},
+  eprint = {2109.04771},
+  booktitle = {arXiv preprint arXiv:2109.04771},
+  archiveprefix = {arXiv},
+  group = {preprint},
+  primaryclass = {cs.RO},
+  link = {https://arxiv.org/abs/2109.04771}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexhietala2021closing(parameter) {
+    var x= document.getElementById('ahietala2021closing');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="blancomulero2021evolvinggraph"><b>Blanco-Mulero, D.</b>, Heinonen, M., &amp; Kyrki, V. (2021). Evolving-Graph Gaussian Processes. <i>Time Series Workshop at 34th International Conference on Machine Learning.</i></span></div>
 <button class="button0" onclick="toggleBibtexblancomulero2021evolvinggraph()">Bibtex</button>
  
 
@@ -100,16 +137,13 @@ the <a href="https://mycourses.aalto.fi/course/view.php?id=28593">Reinforcement 
     <a href="https://github.com/dblanm/evolving-ggp"><input class="button3" type="button" value="code" /></a>
 
 <div id="ablancomulero2021evolvinggraph" style="display: none;">
-<pre>@article{blancomulero2021evolvinggraph,
+<pre>@inproceedings{blancomulero2021evolvinggraph,
   title = {Evolving-Graph Gaussian Processes},
   author = {Blanco-Mulero, David and Heinonen, Markus and Kyrki, Ville},
   year = {2021},
-  journal = {arXiv preprint arXiv:2106.15127},
-  eprint = {2106.15127},
-  archiveprefix = {arXiv},
-  primaryclass = {cs.LG},
+  booktitle = {Time Series Workshop at 34th International Conference on Machine Learning.},
   link = {https://arxiv.org/abs/2106.15127},
-  group = {preprint},
+  group = {workshop},
   code = {https://github.com/dblanm/evolving-ggp}
 }
 </pre>
@@ -128,6 +162,10 @@ function toggleBibtexblancomulero2021evolvinggraph(parameter) {
 
 <h2 id="news">News</h2>
 
+<p><strong>10.09.2021</strong> - We just submitted our work on <a href="https://arxiv.org/abs/2109.04771">Closing the Sim2Real Gap in Dynamic Cloth Manipulation</a> to IEEE for possible publication.</p>
+
+<p><strong>24.07.2021</strong> - I had a really great time at the Time Series Workshop at ICML 2021! You can find the poster of my work <a href="https://dblanm.github.io/assets/images/eGGP_poster.png">here</a>.</p>
+
 <p><strong>28.06.2021</strong> - Our work <a href="https://arxiv.org/abs/2106.15127">Evolving Graph Gaussian Processes</a> was accepted 
 to the <a href="http://roseyu.com/time-series-workshop/">Time Series Workshop</a> at ICML 2021. See you there!</p>
 
@@ -140,7 +178,7 @@ to the <a href="http://roseyu.com/time-series-workshop/">Time Series Workshop</a
             <small> &copy; David Blanco-Mulero 2021
                     | Powered by Jekyll and
                     <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
-                    Last updated on 01 July 2021
+                    Last updated on 16 September 2021
             </small>
           </p>
 
