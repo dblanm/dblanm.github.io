@@ -28,5 +28,10 @@ the [Reinforcement Learning course](https://mycourses.aalto.fi/course/view.php?i
 
 ## News
 
+
+**10.09.2021** - We just submitted our work on [Closing the Sim2Real Gap in Dynamic Cloth Manipulation](https://arxiv.org/abs/2109.04771) to IEEE for possible publication.
+
+**24.07.2021** - I had a really great time at the Time Series Workshop at ICML 2021! You can find the poster of my work [here](https://dblanm.github.io/assets/images/eGGP_poster.png).
+
 **28.06.2021** - Our work [Evolving Graph Gaussian Processes](https://arxiv.org/abs/2106.15127) was accepted 
 to the [Time Series Workshop](http://roseyu.com/time-series-workshop/) at ICML 2021. See you there!
