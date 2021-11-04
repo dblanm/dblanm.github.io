@@ -29,6 +29,8 @@ the [Reinforcement Learning course](https://mycourses.aalto.fi/course/view.php?i
 ## News
 
 
+**03.11.2021** - We just submitted our work on [Manipulation of granular materials by learning particle interactions](https://arxiv.org/abs/2111.02274) to IEEE for possible publication.
+
 **10.09.2021** - We just submitted our work on [Closing the Sim2Real Gap in Dynamic Cloth Manipulation](https://arxiv.org/abs/2109.04771) to IEEE for possible publication.
 
 **24.07.2021** - I had a really great time at the Time Series Workshop at ICML 2021! You can find the poster of my work [here](https://dblanm.github.io/assets/images/eGGP_poster.png).
