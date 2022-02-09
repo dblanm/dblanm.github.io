@@ -39,8 +39,6 @@ GEM
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
     jekyll-email-protect (1.1.0)
-    jekyll-feed (0.15.1)
-      jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -85,7 +83,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-email-protect
-  jekyll-feed
   jekyll-paginate
   jekyll-scholar (~> 5.10)
   jekyll-seo-tag
