@@ -49,6 +49,8 @@ GEM
       jekyll (~> 3.0)
     jekyll-seo-tag (2.7.1)
       jekyll (>= 3.8, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.1)
@@ -86,6 +88,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-scholar (~> 5.10)
   jekyll-seo-tag
+  jekyll-sitemap
   kramdown-parser-gfm
 
 BUNDLED WITH

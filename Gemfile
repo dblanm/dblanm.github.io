@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-email-protect'
   gem 'jekyll-scholar', '~> 5.10'
+  gem 'jekyll-sitemap'
 end
