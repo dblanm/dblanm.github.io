@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://dblanm.github.io//sitemap.xml
