@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-My name is David Blanco Mulero and I'm a 3rd year Phd Student 
+My name is David Blanco Mulero and I'm a 4th year Phd Student 
 at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/).
 
 

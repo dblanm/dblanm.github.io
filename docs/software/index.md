@@ -4,9 +4,18 @@ layout: default
  
 # Software
 
+### [Manipulation of granular materials by learning particle interactions](https://github.com/dblanm/gnn-manip)
+
+Implementation of our paper [Manipulation of granular materials by learning particle interactions](https://ieeexplore.ieee.org/document/9732690?source=authoralert).
+
+{% include image.html url="../assets/images/GNN_manip.png"
+description="" width="1300px"%}
+
+<br/>
+
 ### [Evolving-Graph Gaussian Process](https://github.com/dblanm/evolving-ggp)
 
-Implementation of our paper [Evolving-Graph Gaussian Processes]().
+Implementation of our paper [Evolving-Graph Gaussian Processes](https://arxiv.org/abs/2106.15127).
 
 {% include image.html url="../assets/images/EvolvingGGP.png"
 description="" width="250px"%}

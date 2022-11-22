@@ -4,7 +4,7 @@ title: David Blanco-Mulero
 description: PhD Candidate | Aalto University
 
 baseurl: '' #name of GitHub repository
-url: '' #custom url to be used instead of GitHub repository
+url: "https://dblanm.github.io/" #custom url to be used instead of GitHub repository
 email: david.blancomulero@aalto.fi #
 
 
@@ -22,9 +22,11 @@ twitter: "DavidBMulero"
 linkedin: "david-blanco-mulero/"
 github: "dblanm"
 orcid: "0000-0003-1866-2144"
-
 highlighter: rouge
 markdown: kramdown
+
+# Jekyll-seo-tag for google verification
+google_site_verification: "cWSHYmtS45ljgJyi8XZwksEgyKBNktqtDtWoj8s2hXs"
 
 # Tracker
 analytics:
@@ -62,6 +64,7 @@ plugins:
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-scholar
+  - jekyll-sitemap
 
 scholar:
   style: apa
