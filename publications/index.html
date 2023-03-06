@@ -12,7 +12,6 @@
         <div class="links scroll">
         <a href="/">Home</a>
         <a href="/publications/">Publications</a>
-        <a href="/blog/">Blog</a>
         <a href="/software/">Software</a>
         <a href="/about/">About Me</a>
 
@@ -73,7 +72,7 @@
 
  
 
-    <a href="https://ieeexplore.ieee.org/document/9732690?source=authoralert"><input class="button4" type="button" value="link" /></a>
+    <a href="https://ieeexplore.ieee.org/document/9732690"><input class="button4" type="button" value="link" /></a>
 
  
 
@@ -94,7 +93,7 @@
   number = {2},
   pages = {5663-5670},
   doi = {10.1109/LRA.2022.3158382},
-  link = {https://ieeexplore.ieee.org/document/9732690?source=authoralert},
+  link = {https://ieeexplore.ieee.org/document/9732690},
   group = {journal},
   website = {https://sites.google.com/view/granular-gnn-manipulation},
   code = {https://github.com/dblanm/gnn-manip}
@@ -114,15 +113,17 @@ function toggleBibtextuomainen2021manipulation(parameter) {
 </li></ol>
 
 <h2 id="conference-papers">Conference papers</h2>
-<ol class="bibliography"><li><div class="text-justify"><span id="hietala2022closing">Hietala, J., <b>Blanco-Mulero, D.</b>, Alcan, G., &amp; Kyrki, V. (2022). Learning Visual Feedback Control for Dynamic Cloth Folding. <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>.</span></div>
-<button class="button0" onclick="toggleBibtexhietala2022closing()">Bibtex</button>
+<ol class="bibliography"><li><div class="text-justify"><span id="hietala2022visualfeedback">Hietala, J., Blanco–Mulero, D., Alcan, G., &amp; Kyrki, V. (2022). Learning Visual Feedback Control for Dynamic Cloth Folding. <i>2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 1455–1462. https://doi.org/10.1109/IROS47612.2022.9981376</span></div>
+<button class="button0" onclick="toggleBibtexhietala2022visualfeedback()">Bibtex</button>
  
+
+    <a href="http://doi.org/10.1109/IROS47612.2022.9981376"><input class="button" type="button" value="doi" /></a>
 
  
 
  
 
-    <a href="https://arxiv.org/abs/2109.04771"><input class="button4" type="button" value="link" /></a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9981376"><input class="button4" type="button" value="link" /></a>
 
  
 
@@ -133,22 +134,67 @@ function toggleBibtextuomainen2021manipulation(parameter) {
     <a href="https://sites.google.com/view/dynamic-cloth-folding/home"><input class="button3" type="button" value="website" /></a>
 
 
-<div id="ahietala2022closing" style="display: none;">
-<pre>@inproceedings{hietala2022closing,
+<div id="ahietala2022visualfeedback" style="display: none;">
+<pre>@inproceedings{hietala2022visualfeedback,
+  author = {Hietala, Julius and Blanco–Mulero, David and Alcan, Gokhan and Kyrki, Ville},
+  booktitle = {2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   title = {Learning Visual Feedback Control for Dynamic Cloth Folding},
-  author = {Hietala, Julius and Blanco-Mulero, David and Alcan, Gokhan and Kyrki, Ville},
-  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year = {2022},
-  link = {https://arxiv.org/abs/2109.04771},
+  volume = {},
+  number = {},
+  pages = {1455-1462},
+  doi = {10.1109/IROS47612.2022.9981376},
   group = {conference},
   website = {https://sites.google.com/view/dynamic-cloth-folding/home},
-  code = {https://github.com/hietalajulius/dynamic-cloth-folding}
+  code = {https://github.com/hietalajulius/dynamic-cloth-folding},
+  link = {https://ieeexplore.ieee.org/abstract/document/9981376}
 }
 </pre>
 </div>
 <script>
-function toggleBibtexhietala2022closing(parameter) {
-    var x= document.getElementById('ahietala2022closing');
+function toggleBibtexhietala2022visualfeedback(parameter) {
+    var x= document.getElementById('ahietala2022visualfeedback');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><div class="text-justify"><span id="rajani2023coimitation">Rajani, C., Arndt, K., <b>Blanco-Mulero, D.</b>, Luck, K. S., &amp; Kyrki, V. (2023). Co-Imitation: Learning Design and Behaviour by Imitation. <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, <i>37</i>.</span></div>
+<button class="button0" onclick="toggleBibtexrajani2023coimitation()">Bibtex</button>
+ 
+
+ 
+
+ 
+
+    <a href="https://arxiv.org/abs/2209.01207"><input class="button4" type="button" value="link" /></a>
+
+ 
+
+
+
+    <a href="https://sites.google.com/view/co-imitation"><input class="button3" type="button" value="website" /></a>
+
+
+<div id="arajani2023coimitation" style="display: none;">
+<pre>@article{rajani2023coimitation,
+  title = {Co-Imitation: Learning Design and Behaviour by Imitation},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume = {37},
+  author = {Rajani, Chang and Arndt, Karol and Blanco-Mulero, David and Luck, Kevin Sebastian and Kyrki, Ville},
+  website = {https://sites.google.com/view/co-imitation},
+  link = {https://arxiv.org/abs/2209.01207},
+  year = {2023},
+  group = {conference}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexrajani2023coimitation(parameter) {
+    var x= document.getElementById('arajani2023coimitation');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -288,10 +334,8 @@ function toggleBibtexblancomulero2021evolvinggraph(parameter) {
     }
 }
 </script>
-</li></ol>
-
-<h2 id="preprints">Preprints</h2>
-<ol class="bibliography"><li><div class="text-justify"><span id="rajani2022coimitation">Rajani, C., Arndt, K., <b>Blanco-Mulero, D.</b>, Luck, K. S., &amp; Kyrki, V. (2022). Co-Imitation: Learning Design and Behaviour by Imitation. <i>ArXiv Preprint ArXiv:2209.01207</i>.</span></div>
+</li>
+<li><div class="text-justify"><span id="rajani2022coimitation">Rajani, C., Arndt, K., <b>Blanco-Mulero, D.</b>, Luck, K. S., &amp; Kyrki, V. (2022). Co-Imitation: Learning Design and Behaviour by Imitation. <i>Deep Reinforcement Learning Workshop NeurIPS 2022</i>. https://openreview.net/forum?id=SigVQmfyVfR</span></div>
 <button class="button0" onclick="toggleBibtexrajani2022coimitation()">Bibtex</button>
  
 
@@ -299,24 +343,22 @@ function toggleBibtexblancomulero2021evolvinggraph(parameter) {
 
  
 
-    <a href="https://arxiv.org/abs/2209.01207"><input class="button4" type="button" value="link" /></a>
-
  
 
 
 
+    <a href="https://sites.google.com/view/co-imitation"><input class="button3" type="button" value="website" /></a>
+
 
 <div id="arajani2022coimitation" style="display: none;">
-<pre>@article{rajani2022coimitation,
+<pre>@inproceedings{rajani2022coimitation,
   title = {Co-Imitation: Learning Design and Behaviour by Imitation},
   author = {Rajani, Chang and Arndt, Karol and Blanco-Mulero, David and Luck, Kevin Sebastian and Kyrki, Ville},
+  booktitle = {Deep Reinforcement Learning Workshop NeurIPS 2022},
   year = {2022},
-  journal = {arXiv preprint arXiv:2209.01207},
-  eprint = {2209.01207},
-  archiveprefix = {arXiv},
-  primaryclass = {cs.LG},
-  link = {https://arxiv.org/abs/2209.01207},
-  group = {preprint}
+  url = {https://openreview.net/forum?id=SigVQmfyVfR},
+  group = {workshop},
+  website = {https://sites.google.com/view/co-imitation}
 }
 </pre>
 </div>
@@ -332,15 +374,18 @@ function toggleBibtexrajani2022coimitation(parameter) {
 </script>
 </li></ol>
 
+<h2 id="preprints">Preprints</h2>
+<ol class="bibliography"></ol>
+
             </article>
         </main>
 
         <footer>
           <p class="copy">
-            <small> &copy; David Blanco-Mulero 2022
+            <small> &copy; David Blanco-Mulero 2023
                     | Powered by Jekyll and
                     <a target="_blank" href="https://github.com/jitinnair1/gradfolio/">Gradfolio</a>.
-                    Last updated on 22 November 2022
+                    Last updated on 06 March 2023
             </small>
           </p>
 
