@@ -7,7 +7,8 @@ profile:
 published: true
 ---
 
-Hi there! I'm David Blanco Mulero, PhD Candidate at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/)
+Hi there! I'm David Blanco Mulero, currently a Researcher at [Institut de Robòtica i Informàtica Industrial](https://www.iri.upc.edu/) (IRI-CSIC-UPC).
+I'm also about to finish my PhD at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/)
 supervised by Prof. Ville Kyrki.
 
 My research focuses on data-efficient learning and robotic manipulation.
@@ -15,9 +16,10 @@ My research focuses on data-efficient learning and robotic manipulation.
 <br />
 
 ## Research interests
+- **Manipulation**. Robotic manipulation of deformable objects with applications ranging from assistive robotics to food handling.
 - **Geometric deep learning**. Relational inductive-bias models such as *Graph Neural Networks* or *Graph Gaussian Processes*.
 - **Gaussian processes**. Probabilistic models on structured domains. Learning data-efficient surrogate models for control.
-- **Manipulation**. Robotic manipulation of deformable objects.
+
 
 I am also a Teaching Assistant for
 the [Reinforcement Learning course](https://mycourses.aalto.fi/course/view.php?id=28593) at Aalto University.

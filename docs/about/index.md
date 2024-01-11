@@ -1,11 +1,25 @@
 ---
 layout: default
 ---
-My name is David Blanco Mulero and I'm a 3rd year Phd Student 
-at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/).
+My name is David Blanco Mulero and I'm currently a Researcher at
+[Institut de Robòtica i Informàtica Industrial](https://www.iri.upc.edu/) (IRI-CSIC-UPC) at the Perception and Manipulation
+group lead by Professor [Carme Torras](http://www.iri.upc.edu/people/torras).
+I'm also about to defend my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. Ville Kyrki.
 
+My PhD Thesis "_Towards Efficient Robotic Manipulation of Deformable Objects by Learning Dynamics Models and Adaptive Policies_"
+focused on bridging the gap in the adaptive capabilities of robotic systems to manipulate deformable objects.
+During my PhD I combined techniques such as Reinforcement Learning, Graph Neural Networks and Gaussian Processes
+to develop methods that could learn to manipulate deformable objects in simulation and transfer the learnt skills
+to the real-world.
+My PhD has been funded by the Academy of Finland AI Spider Silk Threading (ASSET) project, the B-REAL project and the
+Business Finland SANTTU project. 
 
-I received my MSc in Automation and Robotics at the Universidad Politecnica de Madrid (Spain).
+During my PhD I received the [Nokia PhD Scholarship](https://nokiafoundation.com/grants/nokia-scholarship/) grant
+(5000 Euros) to encourage the work carried out during my PhD thesis, and the 
+[Foundation for Aalto University Science and Technology](https://www.aalto.fi/en/foundation-for-aalto-university-science-and-technology)
+Research Visit Travel Grant (3100 Eur) for doing a research visit at IRI-CSIC-UPC.
+
+Before that, I received my MSc in Automation and Robotics at the Universidad Politecnica de Madrid (Spain).
 I did my  MSc Thesis at CERN (2016), where I worked developing a [collision avoidance system](https://doi.org/10.1145/3068796.3068800) 
 for the robotic platform [CERNTAURO](https://ieeexplore.ieee.org/document/8391705).
 {% include image.html url="../assets/images/cerntauro.jpg" description="" width="700px" align="center" %}
@@ -23,14 +37,10 @@ That year Dyson released the [Dyson 360 Heurist](https://www.dyson.co.uk/smart-h
 which is one of the projects I worked on.
 
 After my time in industry and working close to research, I decided to step up and move to Academia.
-I started at Aalto University as a Research Assistant (2019) to continue as a PhD Candidate.
-My PhD is funded by the AI Spider Silk Threading (ASSET) project. 
-The project goal is to mimic the natural spider pultrusion process 
-via robotic micro-manipulation and reinforcement learning.
 
 
 On my free time, aside of electronic and ML projects, I really enjoy bouldering.
-I started bouldering on 2019 and I'm currently targeting a 6-C.
+I started bouldering on 2019 and doing lead climbing on 2022.
 
 Here a photo of one of my 6-A successes :)
 {% include image.html url="../assets/images/bouldering.jpeg" description="" width="300px" align="center" %}
