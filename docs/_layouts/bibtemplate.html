@@ -2,11 +2,12 @@
 ---
 <div class="text-justify">{{ reference | replace: "Mulero, D. B.","<b>Mulero, D. B.</b>" |
 replace: "Blanco, D.", "<b>Blanco, D.</b>" |
+replace: "Blanco-Mulero*, D.", "<b>Blanco-Mulero*, D.</b>" |
 replace: "Blanco-Mulero, D.", "<b>Blanco-Mulero, D.</b>"}}</div>
 <button class="button0"  onclick="toggleBibtex{{entry.key}}()">Bibtex</button>
  
 {% if entry.doi %}
-    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button1" type="button" value="doi" /></a>
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button" type="button" value="doi" /></a>
 {% endif %}
  
 {% if entry.preprint %}
@@ -20,6 +21,11 @@ replace: "Blanco-Mulero, D.", "<b>Blanco-Mulero, D.</b>"}}</div>
 {% if entry.code %}
     <a href="{{ entry.code }}"><input class="button3" type="button" value="code" /></a>
 {% endif %}
+
+{% if entry.website %}
+    <a href="{{ entry.website }}"><input class="button3" type="button" value="website" /></a>
+{% endif %}
+
 <div id="a{{entry.key}}" style="display: none;">
 <pre>{{entry.bibtex}}</pre>
 </div>

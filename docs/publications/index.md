@@ -1,13 +1,17 @@
 ---
 layout: default
 ---
-## Preprints
-{% bibliography --query @*[group=preprint] %}
+## Journal papers
+{% bibliography --query @*[group=journal] %}
 
+## Conference papers
+{% bibliography --query @*[group=conference] %}
 
 ## Workshop papers
 {% bibliography --query @*[group=workshop] %}
 
+## Preprints
+{% bibliography --query @*[group=preprint] %}
 
-## Conference papers
-{% bibliography --query @*[group=conference] %}
+## Patents
+{% bibliography --query @*[group=patents] %}
