@@ -1,0 +1,10 @@
+github_users:
+  - dblanm
+
+repo_description_lines_max: 2
+
+github_repos:
+  - dblanm/benchmarking_cloth
+  - dblanm/gnn-manip
+  - dblanm/evolving-ggp
+  - dblanm/torch-graphnet
