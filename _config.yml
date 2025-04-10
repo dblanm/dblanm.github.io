@@ -189,8 +189,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink:
-  permalink: /:collection/:title/
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
