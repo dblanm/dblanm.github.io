@@ -26,6 +26,6 @@ latest_posts:
 
 Hi there! I’m David Blanco Mulero, currently a Post-doc at [Institut de Robòtica i Informàtica Industrial](https://www.iri.upc.edu/) (IRI, CSIC-UPC).
 
-I received my Ph.D. in Robotics from Aalto University, advised by Prof. Ville Kyrki head of the [Intelligent Robotics group](https://irobotics.aalto.fi/).
+I received my Ph.D. in Robotics from Aalto University in 2024, advised by Prof. Ville Kyrki head of the [Intelligent Robotics group](https://irobotics.aalto.fi/).
 
 My research focuses on learning and representation for manipulation, with a special focus on manipulation of deformable objects.
