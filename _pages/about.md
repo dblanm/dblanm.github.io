@@ -1,7 +1,9 @@
 ---
-layout: about
+layout: default
+permalink: /about/
 title: about
-permalink: /about
+nav: true
+nav_order: 4
 ---
 
 My name is David Blanco Mulero and I'm currently a Postdoc at
