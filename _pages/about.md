@@ -9,8 +9,8 @@ nav_order: 4
 My name is David Blanco Mulero and I'm currently a Postdoc at
 [Institut de Robòtica i Informàtica Industrial](https://www.iri.upc.edu/) (IRI-CSIC-UPC) at the Perception and Manipulation
 group lead by Prof. [Carme Torras](http://www.iri.upc.edu/people/torras).
-I'm also about to defend my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. Ville Kyrki.
 
+I'm did my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. Ville Kyrki.
 My PhD Thesis "_Towards Efficient Robotic Manipulation of Deformable Objects by Learning Dynamics Models and Adaptive Policies_"
 focused on bridging the gap in the adaptive capabilities of robotic systems to manipulate deformable objects.
 My PhD Thesis combines techniques such as Reinforcement Learning, Graph Neural Networks and Gaussian Processes
