@@ -31,14 +31,14 @@ Research Visit Travel Grant (3100 Eur) for doing a research visit at IRI-CSIC-UP
 Before that, I received my MSc in Automation and Robotics at the Universidad Politecnica de Madrid (Spain).
 I did my  MSc Thesis at CERN (2016), where I worked developing a [collision avoidance system](https://doi.org/10.1145/3068796.3068800) 
 for the robotic platform [CERNTAURO](https://ieeexplore.ieee.org/document/8391705).
-<img width="300px" class="center-block" src="../assets/img/cerntauro.png">
+<img width="300px" class="center-block" src="../assets/img/cerntauro.jpg">
 
 
 After that, I worked at CERN as a Technical student (2017-2018) in the EN-STI-ECE group (currently EN-SMM-MRO).
 During that time I worked on SLAM techniques for performing visual inspection in the accelerators.
 I also worked on developing a new mobile robotic platform as well as performing interventions in the accelerators.
 
-<img width="300px" class="center-block" src="../assets/img/accelerator_biking.png">
+<img width="300px" class="center-block" src="../assets/img/accelerator_biking.jpg">
 
 
 In 2018 I joined Dyson algorithm's team. 
