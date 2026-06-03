@@ -7,8 +7,12 @@ nav_order: 4
 ---
 
 My name is David Blanco Mulero and I'm currently a Postdoc at
-[Institut de Robòtica i Informàtica Industrial](https://www.iri.upc.edu/) (IRI-CSIC-UPC) at the Perception and Manipulation
+[Institut de Robòtica i Informàtica Industrial](https://www.iri.upc.edu/), CSIC-UPC, at the Perception and Manipulation
 group lead by Prof. [Carme Torras](http://www.iri.upc.edu/people/torras).
+
+Since joining IRI, my postdoctoral work has focused on transferring techniques for manipulating deformable objects to real-world settings.
+As part of the EU [SoftEnable](https://softenable.eu/) project, I developed methods to autonomously manipulate medical garments to assist hospital personnel.
+Aditionally, in early 2026 I completed a research visit at the [Institute of Robotics and Mechatronics](https://www.dlr.de/en/rm) at the German Aerospace Center (DLR), funded by the [José Castillejo mobility grant](https://www.ciencia.gob.es/Convocatorias/2024/JoseCastillejo2024) from the Spanish Ministry of Science.
 
 I'm did my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. Ville Kyrki.
 My PhD Thesis "_Towards Efficient Robotic Manipulation of Deformable Objects by Learning Dynamics Models and Adaptive Policies_"
@@ -21,9 +25,9 @@ to the real-world.
 
 During my PhD I was part of multiple projects of the Academy of Finland: the AI Spider Silk Threading (ASSET) project and the B-REAL project,
 as well as the Business Finland project SANTTU. I also collaborated actively with industry with partners such as
-[Cargotec](https://www.cargotec.com/en/) or [Sandvik](https://www.home.sandvik/en/).
+[Cargotec](https://www.hiabgroup.com/en/) or [Sandvik](https://www.home.sandvik/en/).
 
-During my PhD I received the [Nokia PhD Scholarship](https://nokiafoundation.com/grants/nokia-scholarship/) grant
+During my PhD I received the [Nokia PhD Scholarship](https://nokiafoundation.com/nokia-scholarship/) grant
 (5000 Euros) to encourage the work carried out during my PhD thesis, and the 
 [Foundation for Aalto University Science and Technology](https://www.aalto.fi/en/foundation-for-aalto-university-science-and-technology)
 Research Visit Travel Grant (3100 Eur) for doing a research visit at IRI-CSIC-UPC.
@@ -43,7 +47,7 @@ I also worked on developing a new mobile robotic platform as well as performing 
 
 In 2018 I joined Dyson algorithm's team. 
 During my year at Dyson I continued working on topics related to autonomous navigation and mobile robotic platforms.
-That year Dyson released the [Dyson 360 Heurist](https://www.dyson.co.uk/smart-home/smart-robot-vacuum), 
+That year Dyson released the Dyson 360 Heurist, 
 which is one of the projects I worked on.
 
 After my time in industry and working close to research, I decided to step up and move to Academia.
@@ -53,4 +57,5 @@ On my free time, aside of electronic and ML projects, I really enjoy climbing.
 I started bouldering on 2019 and doing lead climbing on 2022.
 
 Here one of my photos doing a via ferrata :)
+
 <img width="300px" class="center-block" src="../assets/img/via_ferrata.png">
