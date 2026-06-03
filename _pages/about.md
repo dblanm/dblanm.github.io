@@ -14,6 +14,9 @@ Since joining IRI, my postdoctoral work has focused on transferring techniques f
 As part of the EU [SoftEnable](https://softenable.eu/) project, I developed methods to autonomously manipulate medical garments to assist hospital personnel.
 Aditionally, in early 2026 I completed a research visit at the [Institute of Robotics and Mechatronics](https://www.dlr.de/en/rm) at the German Aerospace Center (DLR), funded by the [José Castillejo mobility grant](https://www.ciencia.gob.es/Convocatorias/2024/JoseCastillejo2024) from the Spanish Ministry of Science.
 
+<img width="300px" class="center-block" src="../assets/img/softenable.JPG">
+
+
 I'm did my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. Ville Kyrki.
 My PhD Thesis "_Towards Efficient Robotic Manipulation of Deformable Objects by Learning Dynamics Models and Adaptive Policies_"
 focused on bridging the gap in the adaptive capabilities of robotic systems to manipulate deformable objects.
