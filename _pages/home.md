@@ -28,4 +28,4 @@ I'm an incoming Assistant Professor at Universitat Politècnica de Catalunya (UP
 Prior to UPC, I was a post-doc at [IRI, CSIC-UPC](https://www.iri.upc.edu/) and earned my Ph.D. from Aalto University in 2024, supervised by [Prof. Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki).
 
 I'm interested in robotics and machine learning, with a special emphasis on learning for robotic manipulation of complex objects.
-Ultimately, I am to bridge the gap between research and real-world deployment of robots to assist people in everyday and professional settings.
+Ultimately, my aim is to bridge the gap between research and real-world deployment of robots in order to assist people in everyday and professional settings.
