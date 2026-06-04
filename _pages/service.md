@@ -34,11 +34,11 @@ nav_order: 4
       <td>Associate Editor, IEEE/RSJ IROS</td>
     </tr>
     <tr>
-      <td>Co-organiser, <a href="https://romado-workshop.github.io/">4th Workshop on Robotic Manipulation of Deformable Objects (ROMADO)</a>, IEEE/RSJ IROS, Abu Dhabi, UAE</td>
+      <td>Co-organiser, <a href="https://romado-workshop.github.io/ROMADO2024.github.io/">4th Workshop on Robotic Manipulation of Deformable Objects (ROMADO)</a>, IEEE/RSJ IROS, Abu Dhabi, UAE</td>
     </tr>
     <tr>
       <td>2023</td>
-      <td>Co-organiser, ELLIS RobustML Workshop, Espoo, Finland</td>
+      <td>Co-organiser, <a href="https://sites.google.com/view/ellis-robust-ml-workshop/">ELLIS Robust ML Workshop</a>, Espoo, Finland</td>
     </tr>
   </tbody>
 </table>
