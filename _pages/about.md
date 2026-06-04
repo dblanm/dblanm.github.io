@@ -18,7 +18,7 @@ Aditionally, in early 2026 I completed a research visit at the [Institute of Rob
 
 
 I'm did my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. [Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki).
-My PhD Thesis "[_Towards Efficient Robotic Manipulation of Deformable Objects by Learning Dynamics Models and Adaptive Policies_](../assets/pdf/2024_DBM_Thesis..pdf)"
+My PhD Thesis "[_Towards Efficient Robotic Manipulation of Deformable Objects by Learning Dynamics Models and Adaptive Policies_](../assets/pdf/2024_DBM_Thesis.pdf)"
 focused on bridging the gap in the adaptive capabilities of robotic systems to manipulate deformable objects.
 My PhD Thesis combines techniques such as Reinforcement Learning, Graph Neural Networks and Gaussian Processes
 to develop methods that can learn to manipulate deformable objects in simulation and transfer the learnt skills
