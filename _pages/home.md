@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an incoming Assistant Professor at [Universitat Politècnica de Catalunya](https://upc.edu/) (UPC), in the [ESAII](https://esaii.upc.edu/en) department.
+I'm an Assistant Professor at [Universitat Politècnica de Catalunya](https://upc.edu/) (UPC), in the [ESAII](https://esaii.upc.edu/en) department.
 Prior to UPC, I was a post-doc at [IRI, CSIC-UPC](https://www.iri.upc.edu/) and earned my Ph.D. from Aalto University in 2024, supervised by [Prof. Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki).
 
 I'm interested in robotics and machine learning, with a special emphasis on learning for robotic manipulation of complex objects.

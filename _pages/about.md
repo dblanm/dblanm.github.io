@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-My name is David Blanco Mulero and I'm an incoming Assistant Professor at the [Universitat Politècnica de Catalunya](https://upc.edu/) (UPC), in the [ESAII](https://esaii.upc.edu/) department.
+My name is David Blanco Mulero and I'm an Assistant Professor at the [Universitat Politècnica de Catalunya](https://upc.edu/) (UPC), in the [ESAII](https://esaii.upc.edu/) department.
 
 
 Prior to that, I was a Postdoc at the [Institut de Robòtica i Informàtica Industrial](https://www.iri.upc.edu/), CSIC-UPC, at the Perception and Manipulation group led by Prof. [Carme Torras](http://www.iri.upc.edu/people/torras).
@@ -17,7 +17,7 @@ Aditionally, in early 2026 I completed a research visit at the [Institute of Rob
 <img width="300px" class="center-block" src="../assets/img/softenable.JPG">
 
 
-I'm did my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. [Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki).
+I did my PhD Thesis at Aalto University [Intelligent Robotics group](https://irobotics.aalto.fi/) supervised by Prof. [Ville Kyrki](https://www.aalto.fi/en/people/ville-kyrki).
 My PhD Thesis "[_Towards Efficient Robotic Manipulation of Deformable Objects by Learning Dynamics Models and Adaptive Policies_](../assets/pdf/2024_DBM_Thesis.pdf)"
 focused on bridging the gap in the adaptive capabilities of robotic systems to manipulate deformable objects.
 My PhD Thesis combines techniques such as Reinforcement Learning, Graph Neural Networks and Gaussian Processes
